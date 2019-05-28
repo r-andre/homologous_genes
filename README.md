@@ -1,6 +1,6 @@
 A small project for a bioinformatics course.
 
-##### Data source
+#### Data source
 
 The [eggNOG database](http://eggnogdb.embl.de) (last accessed 2019-09-30) is used as main data source. EggNOG is a database that stores information on which genes in a particular species correspond (by an evolutionary relationship) to those of other species.
 
