@@ -6,10 +6,13 @@ The [eggNOG database](http://eggnogdb.embl.de) (last accessed 2019-09-30) is use
 
 To run the program, the following files are needed (last accessed 2019-09-30):
 
-[http://eggnogdb.embl.de/download/eggnog_4.5/eggnog4.functional_categories.txt]
-[http://eggnogdb.embl.de/download/eggnog_4.5/eggnog4.species_list.txt]
-[http://eggnogdb.embl.de/download/eggnog_4.5/data/meNOG/meNOG.annotations.tsv.gz]
-[http://eggnogdb.embl.de/download/eggnog_4.5/data/meNOG/meNOG.members.tsv.gz]
+http://eggnogdb.embl.de/download/eggnog_4.5/eggnog4.functional_categories.txt
+
+http://eggnogdb.embl.de/download/eggnog_4.5/eggnog4.species_list.txt
+
+http://eggnogdb.embl.de/download/eggnog_4.5/data/meNOG/meNOG.annotations.tsv.gz
+
+http://eggnogdb.embl.de/download/eggnog_4.5/data/meNOG/meNOG.members.tsv.gz
 
 (The latter two need to be unpacked first.)
 
